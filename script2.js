@@ -1,1 +1,1 @@
-alert('ne text');
+alert('ne text');// комментарий
